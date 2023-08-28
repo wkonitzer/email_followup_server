@@ -15,5 +15,14 @@ This script is designed to work as an SMTP server that receives emails, processe
 
 1. **Clone the repository**:
    ```bash
-   git clone [Your Repo URL]
-   cd [Your Repo Directory]
+   git clone [Repo URL]
+   cd [Repo Directory]
+2. Set up environment variables:
+   - OPENAI_KEY: Your OpenAI API key.
+   - GMAIL_USER: Your Gmail email address.
+   - GMAIL_PASSWORD: Your Gmail password or App-specific password (recommended).
+   For the bash shell:
+   ```bash
+   export OPENAI_KEY=your_openai_key
+   export GMAIL_USER=your_gmail_user
+   export GMAIL_PASSWORD=your_gmail_password   
