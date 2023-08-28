@@ -40,4 +40,5 @@ Since the Mail app will not be able to verify the account, it'll show an error a
 ### 7. Test the Setup
 - Compose a new email in the Mail app.
 - Send it to any email address.
+- Select the new localhost account as the `From` address.
 - You should receive a follow-up email processed by your local server.
