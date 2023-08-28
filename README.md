@@ -26,7 +26,8 @@ For the bash shell:
    ```bash
    export OPENAI_KEY=your_openai_key
    export GMAIL_USER=your_gmail_user
-   export GMAIL_PASSWORD=your_gmail_password   
+   export GMAIL_PASSWORD=your_gmail_password
+   ```
 
 ## Usage
 
