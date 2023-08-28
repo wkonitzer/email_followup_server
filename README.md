@@ -21,6 +21,7 @@ This script is designed to work as an SMTP server that receives emails, processe
    - OPENAI_KEY: Your OpenAI API key.
    - GMAIL_USER: Your Gmail email address.
    - GMAIL_PASSWORD: Your Gmail password or App-specific password (recommended).
+
 For the bash shell:
    ```bash
    export OPENAI_KEY=your_openai_key
