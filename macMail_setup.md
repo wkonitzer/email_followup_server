@@ -1,5 +1,8 @@
 ## Setting up macOS Mail Client for Local SMTP Server
 
+### Prerequisites
+- Make sure email_followup_server.py script is running.
+
 ### 1. Open Mail Accounts
 - Open the Mail application.
 - From the menu bar, select `Mail` > `Accounts`.
