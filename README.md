@@ -20,7 +20,7 @@ This script is designed to work as an SMTP server that receives emails, processe
 2. Set up environment variables:
    - OPENAI_KEY: Your OpenAI API key.
    - GMAIL_USER: Your Gmail email address.
-   - GMAIL_PASSWORD: Your Gmail password or App-specific password (recommended).
+   - GMAIL_PASSWORD: Your Gmail App-specific password (see notes below).
 
 For the bash shell:
    ```bash
